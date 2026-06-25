@@ -1,1 +1,3 @@
 # eSDOF
+
+An Implementation of Electronic SDOF Cantilever beams for Vibration Control System Validation developed using the Texas Instruments TMS320F28379D LaunchPad. The project digitally emulates the resonance response of a single-degree-of-freedom (SDOF) mechanical system using real-time biquad filtering. It supports configurable resonance frequency and quality factor, with ADC-based signal acquisition and DAC output generation. The implementation is intended for vibration control system validation, eliminating the need for physical shaker and cantilever beam setups. The repository includes both single-channel and dual-channel DSP implementations along with supporting documentation.
